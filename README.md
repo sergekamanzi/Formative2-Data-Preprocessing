@@ -2,18 +2,18 @@
 # Data Preprocessing 
 
 ## Project Overview
-This project focuses on preprocessing two real-world datasets to enhance data quality and prepare it for machine learning. The process involved data augmentation, merging datasets using transitive properties, feature engineering, and ensuring data consistency.
+This project focuses on preprocessing two real-world datasets to enhance data quality and prepare it for machine learning. The process involved data augmentation, merging datasets using transitive properties, feature engineering and ensuring data consistency.
 
 ## Group Members & Contributions
-- **Geofrey Tumwesigye**: Part 1 - Data Augmentation
-- **Serge**: Part 2 - Merging Datasets with Transitive Properties
-- **Willy**: Part 3 - Data Consistency and Quality Checks
+- **Geofrey Tumwesigye**: Part 1 - Data Augmentation on CSV Files
+- **Serge Kamanzi**: Part 2 - Merging Datasets with Transitive Properties
+- **Willy Kalisa**: Part 3 - Data Consistency and Quality Checks
 
 ## Tasks Overview
-### **Part 1: Data Augmentation (Geofrey)**
+### **Part 1: Data Augmentation on CSV files (Geofrey Tumwesigye)**
 - **Dataset Loaded**: `customer_transactions.csv`
 - **Handling Missing Values**:
-  - Applied mean, median, and mode imputation.
+  - Applied mean, median and mode imputation.
   - Used predictive modeling to fill missing data.
 - **Data Augmentation Strategies**:
   - Introduced synthetic data using random noise to numerical transaction values.
@@ -22,12 +22,12 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
   - Expanded the dataset by generating synthetic transactions.
 - **Final Output**: `customer_transactions_augmented.csv`
 
-### **Part 2: Merging Datasets with Transitive Properties (Serge)**
+### **Part 2: Merging Datasets with Transitive Properties (Serge Kamanzi)**
 - **Datasets Merged**:
   - `customer_transactions_augmented.csv`
-  - `customer_social_profiles.csv` (contains customer engagement data)
-  - `id_mapping.csv` (to link customer IDs)
-- **Steps Taken**:
+  - `customer_social_profiles.csv` 
+  - `id_mapping.csv` 
+- **Steps taken**:
   - Mapped customer IDs using the intermediate mapping dataset.
   - Merged datasets while handling duplicate entries.
   - Created a **Customer Engagement Score** by combining transaction history and social media activity.
@@ -37,12 +37,12 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
     - **TF-IDF vectorization** for customer reviews.
 - **Final Output**: `final_customer_data_5.csv`
 
-### **Part 3: Data Consistency and Quality Checks (Willy)**
+### **Part 3: Data Consistency and Quality Checks (Willy Kalisa)**
 - **Ensured Data Integrity**:
   - Removed duplicate entries.
   - Validated categorical values.
   - Ensured transactions match a valid social profile.
-- **Statistical Summarization**:
+- **Statistical Summary**:
   - Generated summary statistics for numerical columns.
   - Visualized distribution of transaction amounts before and after augmentation.
 - **Feature Selection**:
@@ -57,8 +57,8 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
   - `final_customer_data_5.csv`
   - `final_dataset_ready_5.csv`
 - **Report Summary (PDF)**
-- **GitHub Repository** (Include link to the repo)
-- **Video Presentation** (Include link to the video)
+- **GitHub Repository** (link to the repo)
+- **Video Presentation** (link to the video)
 
 ## How to Use This Project
 1. Clone the repository:
