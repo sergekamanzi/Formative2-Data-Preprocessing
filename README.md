@@ -63,7 +63,7 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
 ## How to Use This Project
 1. Clone the repository:
    ```sh
-   git clone <repo-link>
+   git clone <https://github.com/sergekamanzi/Formative2-Data-Preprocessing>
    ```
 2. Navigate to the project folder and run the notebooks in Google Colab.
 3. Download and use the preprocessed datasets for training machine learning models.
