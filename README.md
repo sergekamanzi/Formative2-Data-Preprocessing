@@ -12,15 +12,16 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
 ## Project Structure
 
 **Formative 2- Data Preprocessing Assignment for Machine Learning Pipeline**
-├──  Bonus Challenge                               
-│    ├── Bonus_Challenge-colab.ipynb               #bonus challenge colab
-├──  csv_files              
-│    ├── customer_transactions_augmented.csv       #csv genarated on task1
-│    ├── final_customer_data_5.csv                 #csv genarated on task2
-│    ├── final_dataset_ready_5.csv                 #csv genarated on task3
-├──  Data Preprocessing Project Report.pdf         #pdf report file                               
-├──  Formative_2_Data_Preprocessing.ipynb          #main colab                                       
-├── README.md                  
+├── Bonus Challenge
+│   └── Bonus_Challenge-colab.ipynb         # bonus challenge colab
+├── csv_files
+│   ├── customer_transactions_augmented.csv  # csv generated on task 1
+│   ├── final_customer_data_5.csv            # csv generated on task 2
+│   └── final_dataset_ready_5.csv            # csv generated on task 3
+├── Data Preprocessing Project Report.pdf    # pdf report file
+├── Formative_2_Data_Preprocessing.ipynb     # main colab
+└── README.md
+                 
                   
 
 
