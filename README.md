@@ -1,8 +1,10 @@
-# Formative2
-# Data Preprocessing 
+Here’s the updated `README.md` file structured properly for your GitHub project:
+
+```markdown
+# Formative 2 - Data Preprocessing Assignment for Machine Learning Pipeline
 
 ## Project Overview
-This project focuses on preprocessing two real-world datasets to enhance data quality and prepare it for machine learning. The process involved data augmentation, merging datasets using transitive properties, feature engineering and ensuring data consistency.
+This project focuses on preprocessing two real-world datasets to enhance data quality and prepare them for machine learning. The process involved data augmentation, merging datasets using transitive properties, feature engineering, and ensuring data consistency.
 
 ## Group Members & Contributions
 - **Geofrey Tumwesigye**: Part 1 - Data Augmentation on CSV Files
@@ -10,8 +12,8 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
 - **Willy Kalisa**: Part 3 - Data Consistency and Quality Checks
 
 ## Project Structure
-
-**Formative 2- Data Preprocessing Assignment for Machine Learning Pipeline**
+```
+```
 ├── Bonus Challenge
 │   └── Bonus_Challenge-colab.ipynb         # bonus challenge colab
 ├── csv_files
@@ -21,22 +23,27 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
 ├── Data Preprocessing Project Report.pdf    # pdf report file
 ├── Formative_2_Data_Preprocessing.ipynb     # main colab
 └── README.md
-                 
-                  
-
+```
 
 ## How to Use This Project
-1. Clone the repository:
-   ```sh
-   git clone <https://github.com/sergekamanzi/Formative2-Data-Preprocessing>
-   ```
-2. Navigate to the project folder and run the notebooks in Google Colab.
-3. Download and use the preprocessed datasets for training machine learning models.
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/sergekamanzi/Formative2-Data-Preprocessing
+    ```
+2. **Navigate to the project folder and run the notebooks in Google Colab**:
+    - Open `Formative_2_Data_Preprocessing.ipynb` and `Bonus_Challenge-colab.ipynb` in Google Colab.
+3. **Download and use the preprocessed datasets** for training machine learning models:
+    - Preprocessed datasets are stored in the `csv_files` folder.
 
-## Challenges faced
+## Challenges Faced
 - **Handling Missing Values**: Predictive modeling was required for filling gaps in certain features.
 - **Complex Merging**: Transitive mapping added an extra layer of complexity in dataset integration.
 - **Feature Engineering**: Required experimentation with different transformations to extract useful insights.
+```
 
+### Steps:
+1. Copy the above content into your `README.md` file.
+2. Make sure the file structure displayed in the project structure section matches your directory.
+3. Add any additional information you feel is necessary for your project.
 
-
+This structure will make your GitHub repository more readable and professional.
