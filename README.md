@@ -1,6 +1,3 @@
-Here’s the updated `README.md` file structured properly for your GitHub project:
-
-```markdown
 # Formative 2 - Data Preprocessing Assignment for Machine Learning Pipeline
 
 ## Project Overview
@@ -10,6 +7,9 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
 - **Geofrey Tumwesigye**: Part 1 - Data Augmentation on CSV Files
 - **Serge Kamanzi**: Part 2 - Merging Datasets with Transitive Properties
 - **Willy Kalisa**: Part 3 - Data Consistency and Quality Checks
+
+```markdown
+
 
 ## Project Structure
 ```
@@ -41,9 +41,3 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
 - **Feature Engineering**: Required experimentation with different transformations to extract useful insights.
 ```
 
-### Steps:
-1. Copy the above content into your `README.md` file.
-2. Make sure the file structure displayed in the project structure section matches your directory.
-3. Add any additional information you feel is necessary for your project.
-
-This structure will make your GitHub repository more readable and professional.
