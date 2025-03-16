@@ -8,6 +8,8 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
 - **Serge Kamanzi**: Part 2 - Merging Datasets with Transitive Properties
 - **Willy Kalisa**: Part 3 - Data Consistency and Quality Checks
 
+## Video link = https://www.youtube.com/watch?v=D6oaPMmh098
+
 ```markdown
 
 
