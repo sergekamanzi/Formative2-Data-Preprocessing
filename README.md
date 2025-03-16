@@ -57,7 +57,7 @@ This project focuses on preprocessing two real-world datasets to enhance data qu
   - `final_customer_data_5.csv`
   - `final_dataset_ready_5.csv`
 - **Report Summary (PDF)**
-- **GitHub Repository** (link to the repo)
+- **GitHub Repository** (https://github.com/sergekamanzi/Formative2-Data-Preprocessing)
 - **Video Presentation** (link to the video)
 
 ## How to Use This Project
